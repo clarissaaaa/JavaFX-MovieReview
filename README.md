@@ -7,7 +7,8 @@ A movie review interface using JavaFX and SceneBuilder while connecting to datab
 <img src="/images/movieReview.PNG" width = "650">
 
 ### Instruction to run:
-1. Copy the SQL script to your localhost database
+1. Create a database in you localhost
+1. Copy the SQL script in *SQL File* folder to your database
 2. Populate the entities with your own values
 3. Open the DatabaseConnection.java and change the database name, user, and password
 
