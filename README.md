@@ -12,6 +12,9 @@ A movie review interface using JavaFX and SceneBuilder while connecting to datab
 2. Populate the entities with your own values
 3. Open the DatabaseConnection.java and change the database name, user, and password
 
+### Database design 
+<img src="/images/ERD.png" width = "650">
+
 ### Limitation
 Currently this project does not have:
 - password secure check 
